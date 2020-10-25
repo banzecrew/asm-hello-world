@@ -1,16 +1,19 @@
 # asm-hello-world
 
-### Hello world examples for macos 64-bit  
+### Nasm hello world examples for macos 64-bit ###
 <br>
 <br>
 
 # Dependencies
+## macos ##
+```
+10.15.7 (19H2)
+```
 ## nasm: ##
 ```
 > nasm -v
     NASM version 2.15.05 compiled on Aug 29 2020
 ```
-<br>
 
 ## gcc ##
 ```
